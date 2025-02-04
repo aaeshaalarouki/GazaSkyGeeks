@@ -16,8 +16,12 @@ I'm passionate about **Data Analysis** and **Machine Learning**! 🚀
 
 - ## 📫 Connect with Me
 - <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aaesha-al-arouki-73a8101b3/))
+  <a href="https://www.linkedin.com/in/aaesha-al-arouki-73a8101b3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
+
+###
 
 ###
